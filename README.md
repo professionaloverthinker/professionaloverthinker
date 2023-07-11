@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to Nurgul Gubadova's GitHub Repository
 
-<!--
-**professionaloverthinker/professionaloverthinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! My name is Nurgul Gubadova and I am a project manager with a keen interest in technology projects.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a junior with 1 years of experience in project management Currently, I am focusing on improving my skills in web development domain of project managment
+
+## Contact Me
+
+I love collaborating on projects and sharing ideas. If you find my projects interesting, feel free to reach out!
+
+- Email: your-email@example.com
+- LinkedIn: [Link to your LinkedIn profile]([#](https://www.linkedin.com/in/nurgul-gubadova-b077701a2/))
+- Twitter: [Link to your Twitter profile]([#](https://www.linkedin.com/in/nurgul-gubadova-b077701a2/))
