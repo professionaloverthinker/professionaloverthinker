@@ -10,6 +10,5 @@ I am a junior with 1 years of experience in project management Currently, I am f
 
 I love collaborating on projects and sharing ideas. If you find my projects interesting, feel free to reach out!
 
-- Email: your-email@example.com
-- LinkedIn: [Link to your LinkedIn profile]([#](https://www.linkedin.com/in/nurgul-gubadova-b077701a2/))
-- Twitter: [Link to your Twitter profile]([#](https://www.linkedin.com/in/nurgul-gubadova-b077701a2/))
+- Email: nurgulgubadova1@gmail.com
+- LinkedIn: [Nurgul Gubadova](https://www.linkedin.com/in/nurgul-gubadova-b077701a2/)
