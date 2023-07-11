@@ -1,4 +1,4 @@
-# Welcome to Nurgul Gubadova's GitHub Repository
+# Welcome to my Github
 
 Hello there! My name is Nurgul Gubadova and I am a project manager with a keen interest in technology projects.
 
